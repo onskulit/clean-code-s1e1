@@ -125,7 +125,7 @@ input.new-task {
   vertical-align: middle;
 }
 
-.list-item > input[type="checkbox"] {
+.list-item__checkbox {
   margin: 0 10px;
 }
 
